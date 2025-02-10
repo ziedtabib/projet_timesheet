@@ -16,7 +16,7 @@ public class UserRestControl {
 
 	@Autowired 
 	IUserService userService; 
-
+//Modification pour les conflits
 	
 	// URL : http://localhost:????/????/????/retrieve-all-users
 	@GetMapping("/retrieve-all-users")
