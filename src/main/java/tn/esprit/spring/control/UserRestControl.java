@@ -16,7 +16,11 @@ public class UserRestControl {
 
 	@Autowired 
 	IUserService userService; 
+<<<<<<< HEAD
 //Modification pour les conflitsssssss
+=======
+//Modification pour les conflitsssss
+>>>>>>> branch_zied
 	
 	// URL : http://localhost:????/????/????/retrieve-all-users
 	@GetMapping("/retrieve-all-users")
